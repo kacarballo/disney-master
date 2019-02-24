@@ -6,8 +6,21 @@ h1, h3 {
   background-image: linear-gradient(mediumblue, lightblue);
 }
 
-.heading {
+.header {
   text-align: center;
+}
+
+.quote {
+  color: white;
+}
+
+.button {
+  background-color: #ADD8E6;
+  border: 2px solid white;
+}
+
+.button:hover {
+  color: white;
 }
 
 #mickey, #minnie, #winnie, #dory, #moana, #olaf {
