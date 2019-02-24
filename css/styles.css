@@ -1,0 +1,15 @@
+h1, h3 {
+  color: lightgrey;
+}
+
+.container {
+  background-image: linear-gradient(mediumblue, lightblue);
+}
+
+.heading {
+  text-align: center;
+}
+
+#mickey, #minnie, #winnie, #dory, #moana, #olaf {
+  display: none;
+}
