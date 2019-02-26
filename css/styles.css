@@ -1,9 +1,10 @@
-h1, h3 {
-  color: lightgrey;
+h1 {
+  color: white;
 }
 
 .container {
-  background-image: linear-gradient(mediumblue, lightblue);
+  background-image: linear-gradient(royalblue, lightblue);
+  padding-bottom: 15px;
 }
 
 .header {
